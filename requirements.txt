@@ -1,7 +1,6 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: win-64
-abseil-cpp=20211102.0=h0e60522_0
 altair=4.2.0=pyhd8ed1ab_1
 argon2-cffi=21.3.0=pyhd8ed1ab_0
 argon2-cffi-bindings=21.2.0=py310he2412df_2
