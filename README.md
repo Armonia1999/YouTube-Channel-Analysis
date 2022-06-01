@@ -1,4 +1,4 @@
-# YouTube-Channel-Analysis
+# YouTube Channel Analysis
 
 In this project we analyze several Youtube channels and present our findings using streamlit by building a web app.
 
