@@ -12,7 +12,7 @@ import matplotlib.ticker as ticker
 
 # For using YouTube Data API we need a personal API key and then a list of channels id that we want to analyze.
 
-api_key = 'AIzaSyCcSuI7ZewyOnuD5pcwvR05-Z1srMRREaU'
+api_key = API_KEY
 channel_ids = ['UCyG7zAV_2JlPnxhwDxZN6sA', 'UC6NrrEp1e3-A51SSinM3Y-Q', 'UCQG_fzADCunBTV1KwjkfAQQ', 'UCrFlv9c4LItVlIMCC2p6LOg', 'UCFiYPUhUzLKoi-cZ0AwpjLA', 'UCC8bTxyN2ZCfMzS_JAEClfA', 'UCg_xrQ9KMN7wL4moBwuxZWw', 'UCvsp8e2LrbUAuE5oLHrBQ_Q', 'UCf8zNN8N7U2BEm4WBQnWBIw', 'UCSD0MKMFT0bZP4jj6c5ihMw', 'UCrRn4Vat9iyUGtl6jPjG3IA', 'UC_RDtmUq7RISJ4mFKAhjzTg', 'UCStb6xqP228XXUykrrY-_CQ', 'UCA9n787LX5srHH-KTv_yZ9Q', 'UCrailkufB1aKrKc6l1osRgw', 'UCiiV8stcewhoCNyiErr7GtA']
 youtube = build('youtube', 'v3', developerKey = api_key)
 
