@@ -140,7 +140,7 @@ def remove_emoji(text):
 
 video_df.Title  = video_df.Title.apply(remove_emoji)
 
-fprop = fm.FontProperties(fname='FontsKR/NotoSansCJKtc-Regular.otf') # a font that supports Korean, Chinese and Japanese characters.
+fprop = fm.FontProperties(fname='NotoSansCJKtc-Regular.otf') # a font that supports Korean, Chinese and Japanese characters.
 
 
 ###############################################################################################
