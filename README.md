@@ -13,3 +13,7 @@ Link to the streamlit web app :
 https://share.streamlit.io/armonia1999/youtube-channel-analysis/main/main.py
 
 Feel free to hit me up with improvements to the code ! I am still new to Python and open to learn ~
+
+
+**Note:**
+The CSV files we saved (general.csv and videos.csv) we will use to build a Tableau Dashboard. Will update once I do it.
