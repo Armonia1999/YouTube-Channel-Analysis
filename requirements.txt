@@ -46,7 +46,6 @@ pyasn1-modules==0.2.8
 pyct==0.4.8
 
 pyviz-comms==2.2.0
-pywin32==303
 
 rsa==4.8
 
