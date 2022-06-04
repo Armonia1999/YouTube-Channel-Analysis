@@ -252,6 +252,7 @@ def timeline(df):
 
 
 st.set_option('deprecation.showPyplotGlobalUse', False)
+st.set_page_config(layout="wide")
 
 
 sidebar_list = general_stats.Channel_name.tolist()
