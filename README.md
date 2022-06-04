@@ -16,4 +16,5 @@ Feel free to hit me up with improvements to the code ! I am still new to Python 
 
 
 **Note:**
-The CSV files we saved (general.csv and videos.csv) we will use to build a Tableau Dashboard. Will update once I do it.
+The CSV files we saved (general.csv and videos.csv) we will use to build a Tableau Dashboard.
+Link to the dashboard : https://public.tableau.com/app/profile/armonia8525/viz/YoutubeAnalysis_16542462018240/Dashboard1
